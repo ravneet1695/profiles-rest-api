@@ -1,2 +1,3 @@
-# profiles-rest-api
-Rest API's For Python Django Framework
+# Profiles REST API
+
+Profiles REST API course code.
